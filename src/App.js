@@ -7,7 +7,7 @@ function App() {
       <main>
         <Title />
       </main>
-      <h1> Welcome !</h1>
+      <h1> Welcome to myself !</h1>
       <p>I have an app!</p>
     </div>
   );
