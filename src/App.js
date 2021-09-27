@@ -1,10 +1,9 @@
-import logo from "./logo.svg";
 import "./App.css";
 
 function App() {
   return (
     <div className="App">
-      <h1> New awesome app</h1>
+      <h1> Welcome Codaisseur!</h1>
       <p>I have an app!</p>
     </div>
   );
