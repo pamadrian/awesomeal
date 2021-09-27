@@ -1,5 +1,6 @@
 // src/components/Title.js
-
-function Title() {
+export default function Title() {
   return <h1>Hi there!</h1>;
 }
+
+console.log(Title);
